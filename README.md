@@ -16,17 +16,25 @@ The **Supermarket Management System** is a C++ program that facilitates efficien
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/AyeshaNahman/supermarket-management-system.git
+    git clone https://github.com/AyeshaNahman/AyeshaNahman-AhrafFatima--SuperMarket-Management-System
     ```
 
 2. Compile the C++ program:
 
     ```bash
-    g++ main.cpp -o supermarket_app
+    g++ main.cpp -o SuperMarket-Management-System.exe
     ```
 
 3. Run the compiled executable:
 
     ```bash
-    ./supermarket_app
+    ./SuperMarket-Management-System.exe
     ```
+
+Apendix:
+We have understood the fundamentals of OOP and have demonstrated it's usabilty in a real-life application
+Inspiration: https://www.youtube.com/watch?v=xFwwN4lGG0o
+
+
+![image](https://github.com/AyeshaNahman/AyeshaNahman-AhrafFatima--SuperMarket-Management-System/assets/154921970/f838b8d9-32f2-4dd5-99cb-b03498d161c3)
+
