@@ -1,0 +1,6 @@
+﻿  main.cpp
+  shopping.cpp
+C:\Users\Dell\OneDrive\Desktop\dld\SuperMarket Management System\SuperMarket Management System\SuperMarket Management System\shopping.cpp(113,6): warning C4101: 'choice': unreferenced local variable
+C:\Users\Dell\OneDrive\Desktop\dld\SuperMarket Management System\SuperMarket Management System\SuperMarket Management System\shopping.cpp(307,10): warning C4129: 'e': unrecognized character escape sequence
+  Generating Code...
+  SuperMarket Management System.vcxproj -> C:\Users\Dell\OneDrive\Desktop\dld\SuperMarket Management System\SuperMarket Management System\x64\Debug\SuperMarket Management System.exe
