@@ -34,6 +34,9 @@ The **Supermarket Management System** is a C++ program that facilitates efficien
 Apendix:
 We have understood the fundamentals of OOP and have demonstrated it's usabilty in a real-life application
 Inspiration
+Inspiration
+![image](https://github.com/AyeshaNahman/AyeshaNahman-AhrafFatima--SuperMarket-Management-System/assets/154921970/b7e27b7f-5f92-4014-b768-8aa704a125ec)
+
 
 
 ![image](https://github.com/AyeshaNahman/AyeshaNahman-AhrafFatima--SuperMarket-Management-System/assets/154921970/f838b8d9-32f2-4dd5-99cb-b03498d161c3)
